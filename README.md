@@ -9,11 +9,23 @@
 
 ![logo](images/logo.png)
 
+
+
+¿Qué tipo de banda eres?
+
+![PersonalityQuizz_1](/Users/appledevice9/Desktop/PersonalityQuizz_1.png)
+
+![PersonalityQuizz_2](/Users/appledevice9/Desktop/PersonalityQuizz_2.png)
+
+![PersonalityQuizz_3](/Users/appledevice9/Desktop/PersonalityQuizz_3.png)
+
+![PersonalityQuizz_4](/Users/appledevice9/Desktop/PersonalityQuizz_4.png)
+
+![PersonalityQuizz_5](/Users/appledevice9/Desktop/PersonalityQuizz_5.png)
+
+
+
 ### 1. Preámbulo: Ciclo de vida de una app 
-
-
-
-
 
 ### 2. Overview del proyecto 
 
